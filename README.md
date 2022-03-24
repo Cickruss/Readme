@@ -1,4 +1,4 @@
-<center> # Olá eu sou o Ícaro Macedo </center>
+#### Olá eu sou o Ícaro Macedo
  
 - 👨‍🎓 I’m currently studying computer science
 
