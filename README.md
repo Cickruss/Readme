@@ -1,4 +1,4 @@
-#### Olá eu sou o Ícaro Macedo
+## Olá eu sou o Ícaro Macedo
  
 - 👨‍🎓 I’m currently studying computer science
 
