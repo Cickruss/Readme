@@ -1,6 +1,7 @@
 ## Olá eu sou o Ícaro Macedo
- 
-- 👨‍🎓 I’m currently studying computer science
+👨‍🎓 I’m currently studying computer science
+
+##
 
 <div align="center">
   <a href="https://github.com/Cickruss">
